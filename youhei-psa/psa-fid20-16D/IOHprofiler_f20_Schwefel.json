@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 20, 
+	"function_name": "Schwefel", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f20_Schwefel/IOHprofiler_f20_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 39877, "y": 1.677959980656615, "x": [1.5124716440737231, 1.3621809292465945, 1.358459992566319, -0.8796598908954397, -0.2500612128291456, -0.22933591233755637, -0.8522588330258684, 0.3032659269456874, -0.5973469157426259, 1.9377736063745297, 2.1465644961852086, 0.539381516483774, 2.4966333870097794, -0.6730715576593368, 1.2275528024056703, -1.4608944502154633]}}
+		]}
+	]
+}

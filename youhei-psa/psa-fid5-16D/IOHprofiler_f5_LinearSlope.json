@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 5, 
+	"function_name": "LinearSlope", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f5_LinearSlope/IOHprofiler_f5_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 768, "y": 0, "x": [9.509708702765817, 5.348345121465764, 5.099342878510788, 13.495381549218074, -10.206173757385884, 12.003817120219274, 22.517431947175062, 11.364089477355213, 12.548147411415496, -12.734647895061714, -14.94570201664423, -8.70314342435735, 18.024346085929167, 20.28298979077595, -14.032467183410345, -7.915629848831992]}}
+		]}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 7, 
+	"function_name": "StepEllipsoid", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f7_StepEllipsoid/IOHprofiler_f7_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 25728, "y": 0.2857788827656118, "x": [0.14612644351073859, 0.7584966867139571, 0.28606409240927744, 2.908665751956474, 2.1933997881176666, 4.177685880342754, 1.9505144965871988, -2.4072378799579983, 3.741661923891457, 2.385161737729782, 1.4924735825321076, -3.914135404896037, -1.0729366615257803, 0.28146456190708313, 1.0365419597767112, 2.4335944566543293]}}
+		]}
+	]
+}

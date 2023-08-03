@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 9, 
+	"function_name": "RosenbrockRotated", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f9_RosenbrockRotated/IOHprofiler_f9_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 39545, "y": 7.955206018403385, "x": [-0.0442251541064442, -0.23566969437907584, 0.620579017850189, -0.7894851787776456, 0.6835468304034056, -0.21368771198119077, -0.3295260148855467, -0.042012246679475757, -0.8051108501775789, 0.11166483478038339, -0.22392939511153173, 0.36552068355754824, 0.06435056389385896, 0.07427756141267478, 0.43917138325378036, -0.4985980702671098]}}
+		]}
+	]
+}

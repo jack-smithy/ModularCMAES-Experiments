@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 22, 
+	"function_name": "Gallagher21", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f22_Gallagher21/IOHprofiler_f22_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 39931, "y": 30.082211333627384, "x": [-1.4289730020814053, 3.6515522713057376, -2.5397671497460625, 1.5480770346839978, -4.1087656599038915, 2.082598994358608, -4.021907201046794, 0.3653008987598566, -1.0038657508005278, -0.8371363394292721, 2.588370126236171, -4.252325246951515, 1.859851753021968, 4.812356608497069, -3.51920371833917, -3.848865544196002]}}
+		]}
+	]
+}

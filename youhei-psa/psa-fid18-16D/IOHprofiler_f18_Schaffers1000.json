@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 18, 
+	"function_name": "Schaffers1000", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f18_Schaffers1000/IOHprofiler_f18_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 39931, "y": 0.00012093912432537565, "x": [3.655988947921842, 2.549607892523158, -1.5296001700952686, 1.4695715190434093, 1.395989429867889, -1.9079944994621651, 3.5016114831962883, -2.350408688028407, -0.38402195101675085, -2.0360380408697734, 3.9327977334512485, 0.09598756443727302, -2.5416006471263746, -1.3424012198134483, 2.60878180585322, 3.1135533117751732]}}
+		]}
+	]
+}

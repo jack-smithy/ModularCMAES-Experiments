@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 3, 
+	"function_name": "Rastrigin", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f3_Rastrigin/IOHprofiler_f3_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 39931, "y": 5.969761663849429, "x": [-2.3408223576336082, 1.3561116021407496, 2.21359197725565, 1.6006810106056213, 3.1126960685776206, 2.1751561902211582, 2.5472101659994784, 1.9716180319250622, 1.803232446797679, -0.4480700977976733, -2.7504259260657604, -4.199571571945265, -0.1384044788880824, -2.9607972608557795, -1.3847855531146176, -3.9239972781795944]}}
+		]}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 6, 
+	"function_name": "AttractiveSector", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f6_AttractiveSector/IOHprofiler_f6_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 35271, "y": 640.8252232945855, "x": [3.7566892507185656, 0.26457830698566087, -11.936518945332999, -0.22838810705560242, 0.35848254318954176, -4.464679261153079, 2.5881082967353555, -5.009122106380136, -4.719687056981801, 2.8865009635964225, 2.3315191274907194, -0.01817128759254283, -0.13981131765823546, -1.0675250177073738, 5.074161345149552, -0.14582480728315672]}}
+		]}
+	]
+}

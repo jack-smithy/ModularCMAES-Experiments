@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 12, 
+	"function_name": "BentCigar", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f12_BentCigar/IOHprofiler_f12_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 38316, "y": 0.14755716672902788, "x": [-0.8900505060909326, 4.032300265546197, 0.2755968728415286, -3.9715099449193056, -0.4866375130605307, -1.9940549058836663, 1.2035965423665238, -0.7180277117180804, 1.1172774026973171, -0.2802958296907819, 0.8358148729496776, 2.70396139419384, 3.7249300739977276, 1.489995261639333, 2.426757573147735, -1.788886825135075]}}
+		]}
+	]
+}

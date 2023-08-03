@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 23, 
+	"function_name": "Katsuura", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f23_Katsuura/IOHprofiler_f23_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 27133, "y": 1.4428076741231564, "x": [1.418055358570724, -4.016394714928433, 1.6137430610462593, -2.074061175284631, 0.4611453355789792, 0.8587524890277118, 0.5316918237378363, -0.02639736740356402, -1.1039179349442718, -2.329946608040039, 1.5575555251462387, 3.5448049941008732, -1.6859324763868768, 3.563882682971375, -0.819972506400994, -3.0259865952153886]}}
+		]}
+	]
+}

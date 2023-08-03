@@ -1,0 +1,16 @@
+{
+	"version": "0.3.9", 
+	"suite": "unknown_suite", 
+	"function_id": 11, 
+	"function_name": "Discus", 
+	"maximization": false, 
+	"algorithm": {"name": "psa", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y", "sigma", "t", "d_norm", "d_mean", "ps_norm", "ps_mean", "pc_norm", "pc_mean", "lambda_", "ps_ratio", "ps_squared", "loglikelihood", "mhl_norm", "mhl_sum"],
+	"scenarios": [
+		{"dimension": 16,
+		"path": "data_f11_Discus/IOHprofiler_f11_DIM16.dat",
+		"runs": [
+			{"instance": 1, "evals": 40055, "best": {"evals": 37765, "y": 64.80097088100612, "x": [-1.918507258287523, -2.790532266600213, -0.24013448442720864, -0.3436909437174741, 0.3926179666543279, 2.0132859618393484, -1.1253724178160618, 5.288717578968383, 2.7474518677637154, 1.857749539328149, 2.1933447314092085, -3.1941577141491457, -0.641738287754704, 3.8068437855881343, -2.6385595936918125, -2.4416820584999592]}}
+		]}
+	]
+}
